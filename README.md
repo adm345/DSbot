@@ -5,5 +5,5 @@ esse e um simples bot em python para o telegram que usa o telepot
 $sudo apt-get pip python
 $pip install telepot
 $pip installpythoncolorize</pre>
-by <b>jotadrake</b>
-idealizador <B>Paulo</B>
+by <b>jotadrake</b> 
+/idealizador <B>Paulo</B>
